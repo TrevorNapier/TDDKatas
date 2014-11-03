@@ -1,4 +1,4 @@
-package StrinCalc;
+package stringcalc1;
 
 import static org.junit.Assert.*;
 
